@@ -1,6 +1,8 @@
 # SIEM
 Security Information and Event Management system (SIEM)
-Introduction
+
+•Introduction
+
 Introduction To SIEM:
 Security Information and Event Management (SIEM), is a solution that enables companies and organizations to collect, store, analyze, and generate reports from security events and data logs.
 
